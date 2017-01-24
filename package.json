@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-js",
+  "version": "0.0.1",
+  "description": "Common datastructures implemented in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sv-code/data-structures-js.git"
+  },
+  "keywords": [
+    "data",
+    "structures"
+  ],
+  "author": "sv-code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sv-code/data-structures-js/issues"
+  },
+  "homepage": "https://github.com/sv-code/data-structures-js#readme"
+}
