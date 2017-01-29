@@ -1,12 +1,12 @@
-const queue = require('./lib/queue')()
+const x = require('./lib/binarytree')()
 
-queue.enq(3);
-queue.enq(6);
-queue.enq(9);
-
-let n = queue.deq()
-while(n !== null) {
-    console.log(n)
-    n = queue.deq()
-}
-console.log('end')
+x.add(2)
+x.add(5)
+x.add(1)
+x.add(7)
+x.add(9)
+x.add(6)
+x.add(8)
+x.print()
+//ll.delete(3)
+//ll.print()
